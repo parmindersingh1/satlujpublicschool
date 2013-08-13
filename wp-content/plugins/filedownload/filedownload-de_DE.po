@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Filedownload\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-02 21:28+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Gross <p-gross@worldweb-innovation.de>\n"
+"Language-Team:  <p-gross@worldweb-innovation.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\WordPress\\plugins\\eigene Plugins\\filedownload\n"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:43
+#: Plugins\filedownload/filedownload/filedownload.php:63
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:43
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:63
+msgid "Filedownload Error: parameter 'file' is empty!"
+msgstr "Filedownload Fehler: parameter 'file' ist leer!"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:48
+#: Plugins\filedownload/filedownload/filedownload.php:68
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:48
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:68
+#, php-format
+msgid "Filedownload Error: file '%s' does not exist!"
+msgstr "Filedownload Fehler: die Datei '%s' existiert nicht!"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:106
+#: Plugins\filedownload/filedownload/filedownload.php:164
+#: Plugins\filedownload/filedownload/filedownload.php:201
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:106
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:164
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:204
+msgid "Filedownload"
+msgstr "Filedownload"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:136
+#: Plugins\filedownload/filedownload/filedownload.php:153
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:136
+msgid "The following counters where set to null:"
+msgstr "Die flolgenden Zähler wurden zurückgesetzt:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:143
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:143
+msgid "Select the counters you want to reset!"
+msgstr "Selektiere die Zähler zum Zurücksetzen!"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:160
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:160
+msgid "Select the counters you want to delete!"
+msgstr "Selektiere die Zähler zum Löschen!"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:163
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:163
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:163
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:163
+msgid "filedownload"
+msgstr "filedownload"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:186
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:186
+msgid " Count: "
+msgstr " Anzahl:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:198
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:199
+msgid "Reset Selected Counters"
+msgstr "Selektierte Zähler rücksetzen"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:200
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:202
+msgid "Delete Selected Counters"
+msgstr "Selektierte Zähler löschen"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:201
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:204
+msgid " is powered by "
+msgstr " wird unterstützt von "
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:201
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:204
+msgid "Create your free Wordpress Blog!"
+msgstr "Erstelle deinen kostenlosen Wordpress Blog!"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:206
+msgid "How to insert the download link or download counter in your post?"
+msgstr "Wie werden die Downloads und die Zähler im Artikel eingetragen?"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:208
+msgid "Write the following text in your post for downloading a file:"
+msgstr "Schreibe den folgenden Text in deinen Artikel, um eine Datei zum Download anzubieten:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:210
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:217
+msgid "where <strong>type</strong> and <strong>style</strong> are optional"
+msgstr "dabei sind <strong>type</strong> und <strong>style</strong> optional"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/filedownload/filedownload.php:212
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:215
+msgid "Write the following text in your post for showing the download counter:"
+msgstr "Schreibe den folgenden Text in deinen Artikel, um den Download Zähler anzuzeigen:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:153
+msgid "The following counters where deleted:"
+msgstr "Die flolgenden Zähler wurden gelöscht:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:209
+msgid "How to insert the download link, button or download counter in your post?"
+msgstr "Wie werden die Downloads und die Zähler in den Artikel eingetragen?"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:211
+msgid "Write the following text in your post for downloading a file in a link:"
+msgstr "Schreibe den folgenden Text in deinen Artikel, um eine Datei zum Download als Link anzubieten:"
+
+#: D:\xampp\htdocs\WordPress\plugins\eigene
+#: Plugins\filedownload/v1.1/filedownload/filedownload.php:213
+msgid "Write the following text in your post for downloading a file with a button:"
+msgstr "Schreibe den folgenden Text in deinen Artikel, um eine Datei zum Download über einen Button anzubieten:"
+
+#~ msgid ""
+#~ "Write the following text in your post for downloading a file:<br /"
+#~ "><strong>[filedownload file=\"uploads/2011/06/MTB_Tour.gpx\" type="
+#~ "\"application/xml\" style=\"color:#0000EE;\"]MTB_Tour.gpx[/filedownload]</"
+#~ "strong>"
+#~ msgstr ""
+#~ "Schreibe den folgenden Text in deinen Artikel, um eine Datei zum Download "
+#~ "anzubieten:<br /><strong>[filedownload file=\"uploads/2011/06/MTB_Tour.gpx"
+#~ "\" type=\"application/xml\" style=\"color:#0000EE;\"]MTB_Tour.gpx[/"
+#~ "filedownload]</strong>"
+#~ msgid ""
+#~ "Write the following text in your post for showing the download counter:"
+#~ "<br /><strong>[filedownload_counter file=\"uploads/2011/06/MTB_Tour.gpx\" "
+#~ "style=\"color:#FF0000;\"]MTB_Tour.gpx[/filedownload_counter]</strong>"
+#~ msgstr ""
+#~ "Schreibe den folgenden Text in deinen Artikel, um den Download Zähler "
+#~ "anzuzeigen:<br /><strong>[filedownload_counter file=\"uploads/2011/06/"
+#~ "MTB_Tour.gpx\" style=\"color:#FF0000;\"]MTB_Tour.gpx[/"
+#~ "filedownload_counter]</strong>"
+

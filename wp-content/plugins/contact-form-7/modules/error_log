@@ -1,0 +1,1 @@
+[03-May-2013 19:13:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function wpcf7_add_shortcode() in /home/satlujpu/public_html/wp-content/plugins/contact-form-7/modules/response.php on line 8

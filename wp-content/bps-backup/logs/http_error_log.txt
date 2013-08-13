@@ -1,0 +1,1888 @@
+BPS SECURITY / HTTP ERROR LOG
+==============================
+==============================
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 24, 2013 - 3:29 pm <<<<<<<<<<<
+REMOTE_ADDR: 117.207.16.221
+Host Name: 117.207.16.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS122327; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 25, 2013 - 10:09 am <<<<<<<<<<<
+REMOTE_ADDR: 115.112.91.254
+Host Name: 115.112.91.254.static-mumbai.vsnl.net.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contect%20us.html
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 25, 2013 - 11:00 am <<<<<<<<<<<
+REMOTE_ADDR: 124.253.67.210
+Host Name: 124.253.67.210
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 25, 2013 - 11:29 am <<<<<<<<<<<
+REMOTE_ADDR: 59.144.248.43
+Host Name: ABTS-North-Static-043.248.144.59.airtelbroadband.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:12 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:12 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/online-registration-2013-14/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:12 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:12 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/cbse-results-2012/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:13 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/senior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:13 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/cbse-results-2012/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:13 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:16 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/alumni/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:16 am <<<<<<<<<<<
+REMOTE_ADDR: 49.249.28.221
+Host Name: 49.249.28.221
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:04 am <<<<<<<<<<<
+REMOTE_ADDR: 117.197.154.151
+Host Name: 117.197.154.151
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:04 am <<<<<<<<<<<
+REMOTE_ADDR: 117.197.154.151
+Host Name: 117.197.154.151
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:44 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/online-registration-2013-14/
+REQUEST_URI: /wp-content/plugins/tablepress/css/default.min.css?ver=0.class=%22logo%22%3E%3Ca%20href=%22http://satlujpublicschool.com%22%3E%3Cimg%20src=%22http://satlujpublicschool.com/wp-content/themes/satluj/images/logo.png%22%20alt=%22%22%20/%3E%3C/a%3E%3C/div%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=%22white-rightarea%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=%22reg-box%22%3E%3Ca%20href=%22http://satlujpublicschool.com/online-registration-2013-14/%22%3EOnline%20Registration%202013-2014%20%3C/a%3E%20%3C/div%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=%22clear%22%3E%3C/div%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=%22nav%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cul%20id=%22menu-top-menu-2%22%20class=%22menu%22%3E%3Cli%20id=%22menu-item-49%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-49%22%3E%3Ca%20href=%22http://satlujpublicschool.com/cbse-results-2012/%22%20%3ECBSE%20Results%202012%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-50%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-50%22%3E%3Ca%20href=%22http://satlujpublicschool.com/publications/%22%20%3EPublications%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-51%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-51%22%3E%3Ca%20href=%22http://satlujpublicschool.com/alumni/%22%20%3EAlumni%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-54%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-54%22%3E%3Ca%20href=%22http://satlujpublicschool.com/beyond-academics/%22%20%3EBeyond%20Academics%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-52%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-52%22%3E%3Ca%20href=%22http://satlujpublicschool.com/media/%22%20%3EMedia%3C/a%3E%3C/li%3E%3C/ul%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%3C!--nav%20ends--%3E%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%3C!--white-rightarea%20ends--%3E%20%20%20%20%20%20%20%20%3C/div%3E%20%20%20%20%20%20%20%20%3C!------------whitearea%20ends------------%3E%20%20%20%20%20%20%20%20%20%20%20%20%3C/div%3E%3C!--headerarea%20ends--%3E%3Cdiv%20id=%22contentarea-inner%22%3E%20%20%20%20%20%20%20%20%3Cdiv%20class=%22content-inner-wrap%22%3E%20%20%20%20%20%20%20%20%3Cdiv%20class=%22left-wrap%20blue-bor%22%3E%3Caside%20id=%22nav_menu-2%22%20class=%22widget%20widget_nav_menu%22%3E%3Cdiv%20class=%22menu-side-menu-container%22%3E%3Cul%20id=%22menu-side-menu%22%20class=%22menu%22%3E%3Cli%20id=%22menu-item-418%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-418%22%3E%3Ca%20href=%22http://satlujpublicschool.com/about-satluj/%22%20%3EAbout%20Satluj%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-419%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-419%22%3E%3Ca%20href=%22http://satlujpublicschool.com/senior-wing/%22%20%3ESenior%20Wing%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-420%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-420%22%3E%3Ca%20href=%22http://satlujpublicschool.com/junior-wing/%22%20%3EJunior%20Wing%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-421%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-421%22%3E%3Ca%20href=%22http://satlujpublicschool.com/founder/%22%20%3EFounder%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-422%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-422%22%3E%3Ca%20href=%22http://satlujpublicschool.com/principal/%22%20%3EPrincipal%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-423%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-423%22%3E%3Ca%20href=%22http://satlujpublicschool.com/achievements/%22%20%3EAchievements%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-424%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-424%22%3E%3Ca%20href=%22http://satlujpublicschool.com/activities/%22%20%3EActivities%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-425%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-425%22%3E%3Ca%20href=%22http://satlujpublicschool.com/iso-90012008/%22%20%3EISO%209001:2008%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-426%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-426%22%3E%3Ca%20href=%22http://satlujpublicschool.com/cambridge-esol-exams/%22%20%3ECambridge%20ESOL%20Exams%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-427%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-427%22%3E%3Ca%20href=%22http://satlujpublicschool.com/smart-class-room/%22%20%3E3D-Smart%20Class%20Room%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-428%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-428%22%3E%3Ca%20href=%22http://satlujpublicschool.com/teaching-methodology/%22%20%3ETeaching%20Methodology%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-429%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-429%22%3E%3Ca%20href=%22http://satlujpublicschool.com/day-boarding/%22%20%3EDay%20Boarding%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-430%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-430%22%3E%3Ca%20href=%22http://satlujpublicschool.com/admission/%22%20%3EAdmission%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-431%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-431%22%3E%3Ca%20href=%22http://satlujpublicschool.com/events/%22%20%3EEvents%3C/a%3E%3C/li%3E%3Cli%20id=%22menu-item-432%22%20class=%22menu-item%20menu-item-type-post_type%20menu-item-object-page%20menu-item-432%22%3E%3Ca%20href=%22http://satlujpublicschool.com/administrative-details/%22%20%3EAdministrative%20Details%3C/a%3E%3C/li%3E%3C/ul%3E%3C/div%3E%3C/aside%3E%3Caside%20id=%22recent-posts-2%22%20class=%22widget%20widget_recent_entries%22%3E%3Ch3%20class=%22widget-title%22%3ELatest%20News%3C/h3%3E%3Cul%3E%3Cli%3E%3Ca%20href=%22http://satlujpublicschool.com/2013/03/19/cbse-results-2012-x-results-29-students-cgpa-10-0-highest-record-garima-singh-panchkula-city-topper-science-stream-cbse-2012-xii-best-garden-award-2013-by-huda/%22%20title=%22CBSE%20Results%202012%20X%20Results%2029%20students%20CGPA%2010.0%20highest%20record%20Garima%20Singh%20Panchkula%20City%22%3ECBSE%20Results%202012%20X%20Results%2029%20students%20CGPA%2010.0%20highest%20record%20Garima%20Singh%20Panchkula%20City%3C/a%3E%3Cspan%20class=%22post-date%22%3EMarch%2019,%202013%3C/span%3E%3C/li%3E%3Cli%3E%3Ca%20href=%22http://satlujpublicschool.com/2013/03/19/cbse-chairman-vineet-joshi-visits-satluj-for-mentoring-and-experience-sharing-workshop/%22%20title=%22CBSE%20Chairman%20Vineet%20Joshi%20visits%20Satluj%20for%20Mentoring%20and%20Experience%20Sharing%20Workshop%22%3ECBSE%20Chairman%20Vineet%20Joshi%20visits%20Satluj%20for%20Mentoring%20and%20Experience%20Sharing%20Workshop%3C/a%3E%3Cspan%20class=%22post-date%22%3EMarch%2019,%202013%3C/span%3E%3C/li%3E%3Cli%3E%3Ca%20href=%22http://satlujpublicschool.com/2013/03/19/tri-city-youth-conclave-2013-celebrating-thoughts/%22%20title=%22Tri-City%20Youth%20Conclave%202013:%20Celebrating%20Thoughts%22%3ETri-City%20Youth%20Conclave%202013:%20Celebrating%20Thoughts%3C/a%3E%3Cspan%20class=%22post-date%22%3EMarch%2019,%202013%3C/span%3E%3C/li%3E%3C/ul%3E%3C/aside%3E%3C/div%3E%3C!--left-wrap%20ends--%3E%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cdiv%20class=%22right-wrap%20dark-brown%22%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Ch1%20class=%22main-title%22%3EOnline%20Registration%202013-14%3C/h1%3E%3Cdiv%20class=%22wpcf7%22%20id=%22wpcf7-f564-p8-o1%22%3E%3Cform%20action=%22/online-registration-2013-14/
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:44 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/online-registration-2013-14/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:46 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.64.194
+Host Name: 150-70-64-194.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 7:47 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.97.125
+Host Name: 150-70-97-125.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:12 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:14 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.75.33
+Host Name: wtp-g3-maya7.sjdc
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:16 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/photo-gallery/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:16 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.97.121
+Host Name: 150-70-97-121.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:16 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/gallery/cbse-chairman-visits-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:18 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/photo-gallery/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:18 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:18 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/photo-gallery/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:18 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/gallery/school-tour/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:21 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.172.125
+Host Name: 150-70-172-125.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:22 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.196.114
+Host Name: 150.70.196.114
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:30 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/administrative-details/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:32 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.64.213
+Host Name: 150-70-64-213.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:33 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.97.127
+Host Name: 150-70-97-127.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 8:45 am <<<<<<<<<<<
+REMOTE_ADDR: 115.244.26.85
+Host Name: 115.244.26.85
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/index.html
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 11:16 am <<<<<<<<<<<
+REMOTE_ADDR: 101.62.171.173
+Host Name: 101.62.171.173
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/2013/03/19/cbse-results-2012-x-results-29-students-cgpa-10-0-highest-record-garima-singh-panchkula-city-topper-science-stream-cbse-2012-xii-best-garden-award-2013-by-huda/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:15 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:18 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:19 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/teaching-methodology/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:20 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:21 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/events/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 26, 2013 - 5:21 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.98.233.149
+Host Name: Static-149.233.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/wel.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/Smart-Class-Room-Banner.gif
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/Founder%202.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/mid.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/gallery.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 27, 2013 - 10:35 pm <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/name.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:07 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/wel.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:07 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/Smart-Class-Room-Banner.gif
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:07 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/Founder%202.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:08 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/mid.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:08 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/gallery.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 1:08 am <<<<<<<<<<<
+REMOTE_ADDR: 206.253.226.14
+Host Name: 206.253.226.14
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /images/name.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; oBot/2.3.1; +http://www-935.ibm.com/services/us/index.wss/detail/iss/a1029077?cntxt=a1027244)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 6:06 am <<<<<<<<<<<
+REMOTE_ADDR: 115.184.57.125
+Host Name: 115.184.57.125
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 6:08 am <<<<<<<<<<<
+REMOTE_ADDR: 115.184.57.125
+Host Name: 115.184.57.125
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 6:09 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.64.213
+Host Name: 150-70-64-213.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 28, 2013 - 2:10 pm <<<<<<<<<<<
+REMOTE_ADDR: 202.137.235.81
+Host Name: f4mail-235-81.rediffmail.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /
+QUERY_STRING: 
+HTTP_USER_AGENT: 
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:39 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:41 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:42 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/?s=riyan+
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:43 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:44 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:46 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/activities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:47 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:47 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/activities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:47 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/senior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 9:47 am <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:05 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/index.html
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:06 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:07 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/online-registration-2013-14/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:08 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:08 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/smart-class-room/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:10 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/cambridge-esol-exams/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 10:14 am <<<<<<<<<<<
+REMOTE_ADDR: 14.98.163.137
+Host Name: Static-137.163.98.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbORJ/5.15.15.36191)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:22 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:23 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/alumni/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:24 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/photo-gallery/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:24 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/alumni/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:25 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:25 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:25 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:25 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:26 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:26 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:27 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:27 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 11:27 am <<<<<<<<<<<
+REMOTE_ADDR: 202.164.36.165
+Host Name: 202.164.36.165
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 4:08 pm <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 29, 2013 - 4:09 pm <<<<<<<<<<<
+REMOTE_ADDR: 112.110.32.213
+Host Name: 112.110.32.213
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 6:56 am <<<<<<<<<<<
+REMOTE_ADDR: 112.79.36.60
+Host Name: 112-79-36-60.live.vodafone.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 6:58 am <<<<<<<<<<<
+REMOTE_ADDR: 112.79.36.60
+Host Name: 112-79-36-60.live.vodafone.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 6:59 am <<<<<<<<<<<
+REMOTE_ADDR: 112.79.36.60
+Host Name: 112-79-36-60.live.vodafone.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 11:33 am <<<<<<<<<<<
+REMOTE_ADDR: 195.242.218.133
+Host Name: 195.242.218.133
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://evro-schengen.ru/
+REQUEST_URI: /teaching%2520methodology.html
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.7 (compatible; OffByOne; Windows 2000) Webster Pro V3.4
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 11:33 am <<<<<<<<<<<
+REMOTE_ADDR: 195.242.218.133
+Host Name: 195.242.218.133
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://evro-schengen.ru/
+REQUEST_URI: /teaching%2520methodology.html
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.7 (compatible; OffByOne; Windows 2000) Webster Pro V3.4
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 11:33 am <<<<<<<<<<<
+REMOTE_ADDR: 195.242.218.133
+Host Name: 195.242.218.133
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://evro-schengen.ru/
+REQUEST_URI: /teaching%2520methodology.html
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.7 (compatible; OffByOne; Windows 2000) Webster Pro V3.4
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:22 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:23 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/cbse-results-2012/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:23 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/day-boarding/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:24 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/facilities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:25 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/2013/03/19/cbse-results-2012-x-results-29-students-cgpa-10-0-highest-record-garima-singh-panchkula-city-topper-science-stream-cbse-2012-xii-best-garden-award-2013-by-huda/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:25 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:26 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/principal/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:27 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/achievements/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/principal/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/2013/03/19/cbse-results-2012-x-results-29-students-cgpa-10-0-highest-record-garima-singh-panchkula-city-topper-science-stream-cbse-2012-xii-best-garden-award-2013-by-huda/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/facilities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/day-boarding/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/cbse-results-2012/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:28 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:36 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:36 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/facilities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:37 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/administrative-details/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:37 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/media/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:37 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/about-satluj/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/contact-us/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/media/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/administrative-details/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/facilities/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 30, 2013 - 7:38 pm <<<<<<<<<<<
+REMOTE_ADDR: 42.61.7.246
+Host Name: 42.61.7.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 31, 2013 - 12:44 am <<<<<<<<<<<
+REMOTE_ADDR: 94.153.65.47
+Host Name: 94-153-65-47-gprs.kyivstar.net
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://osobye.ru/
+REQUEST_URI: /teaching%2520methodology.html
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.76 [en] (Windows NT 5.0; U)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 31, 2013 - 12:44 am <<<<<<<<<<<
+REMOTE_ADDR: 94.153.65.47
+Host Name: 94-153-65-47-gprs.kyivstar.net
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://osobye.ru/
+REQUEST_URI: /teaching%2520methodology.html
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.76 [en] (Windows NT 5.0; U)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 31, 2013 - 7:09 am <<<<<<<<<<<
+REMOTE_ADDR: 1.202.218.117
+Host Name: 117.218.202.1.static.bjtelecom.net
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; JikeSpider; +http://shoulu.jike.com/spider.html)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - March 31, 2013 - 9:36 am <<<<<<<<<<<
+REMOTE_ADDR: 14.97.43.201
+Host Name: Static-201.43.97.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/2013/03/19/cbse-results-2012-x-results-29-students-cgpa-10-0-highest-record-garima-singh-panchkula-city-topper-science-stream-cbse-2012-xii-best-garden-award-2013-by-huda/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS4420; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; yie8)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 5:48 am <<<<<<<<<<<
+REMOTE_ADDR: 116.214.24.28
+Host Name: 116-214-24-28.del.tulipconnect.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 5:49 am <<<<<<<<<<<
+REMOTE_ADDR: 116.214.24.28
+Host Name: 116-214-24-28.del.tulipconnect.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 5:49 am <<<<<<<<<<<
+REMOTE_ADDR: 116.214.24.28
+Host Name: 116-214-24-28.del.tulipconnect.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 5:50 am <<<<<<<<<<<
+REMOTE_ADDR: 116.214.24.28
+Host Name: 116-214-24-28.del.tulipconnect.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/junior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 6:19 am <<<<<<<<<<<
+REMOTE_ADDR: 116.214.24.28
+Host Name: 116-214-24-28.del.tulipconnect.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix%27)%20format(%27eot%27),url(%27../font/League_Gothic-webfont.woff%27)%20format(%27woff%27),url(%27../font/League_Gothic-webfont.ttf%27)%20format(%27truetype%27),url(%27../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 11:27 am <<<<<<<<<<<
+REMOTE_ADDR: 210.56.99.63
+Host Name: 210.56.99.63
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 12:06 pm <<<<<<<<<<<
+REMOTE_ADDR: 49.249.188.26
+Host Name: 49.249.188.26
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/wp-admin/admin.php?page=nggallery-manage-album
+REQUEST_URI: /wp-admin/admin.php?page=nggallery-manage-album&skipjs[0]=http://satlujpublicschool.com/wp-content/plugins/all-in-one-event-calendar/app/view/admin/js/require.js?ver=1.9.5-standard
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:18.0) Gecko/20100101 Firefox/18.0
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 2:02 pm <<<<<<<<<<<
+REMOTE_ADDR: 101.62.223.246
+Host Name: 101.62.223.246
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/index.html
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 2:05 pm <<<<<<<<<<<
+REMOTE_ADDR: 150.70.172.106
+Host Name: iad1-wtp-gd-maya6.sdi.trendnet.org
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 6:20 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.96.195.156
+Host Name: Static-156.195.96.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS124146; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; eToolKit; AskTbIJBME/5.15.15.35882)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 6:22 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.96.195.156
+Host Name: Static-156.195.96.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/senior-wing/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS124146; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; eToolKit; AskTbIJBME/5.15.15.35882)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 1, 2013 - 6:25 pm <<<<<<<<<<<
+REMOTE_ADDR: 14.96.195.156
+Host Name: Static-156.195.96.14.tataidc.co.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/admission/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS124146; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; eToolKit; AskTbIJBME/5.15.15.35882)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 7:03 am <<<<<<<<<<<
+REMOTE_ADDR: 122.173.181.113
+Host Name: ABTS-North-Dynamic-113.181.173.122.airtelbroadband.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; Tablet PC 2.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 7:05 am <<<<<<<<<<<
+REMOTE_ADDR: 122.173.181.113
+Host Name: ABTS-North-Dynamic-113.181.173.122.airtelbroadband.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; Tablet PC 2.0)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 8:07 am <<<<<<<<<<<
+REMOTE_ADDR: 85.72.33.54
+Host Name: deptah.static.otenet.gr
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-login.php
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/3.0 (compatible; Indy Library)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 8:12 am <<<<<<<<<<<
+REMOTE_ADDR: 122.160.125.234
+Host Name: ABTS-North-Static-234.125.160.122.airtelbroadband.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/index.html
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 8:12 am <<<<<<<<<<<
+REMOTE_ADDR: 122.160.125.234
+Host Name: ABTS-North-Static-234.125.160.122.airtelbroadband.in
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 8:15 am <<<<<<<<<<<
+REMOTE_ADDR: 150.70.172.125
+Host Name: 150-70-172-125.trendmicro.com
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 127.0.0.1
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 11:40 am <<<<<<<<<<<
+REMOTE_ADDR: 92.96.88.3
+Host Name: 92.96.88.3
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: http://satlujpublicschool.com/
+REQUEST_URI: /wp-content/themes-ai1ec/vortex/font/League_Gothic-webfont.eot?iefix)%20format(%22eot%22),%20url(../font/League_Gothic-webfont.woff)%20format(%22woff%22),%20url(../font/League_Gothic-webfont.ttf)%20format(%22truetype%22),%20url(../font/League_Gothic-webfont.svg
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS98653; GTB7.4; SIMBAR={F1395731-8FAC-11E2-AB80-00188B090615}; InfoPath.2; AskTbAVR-4/5.15.20.37949)
+
+>>>>>>>>>>> 403 GET or Other Request Error Logged - April 2, 2013 - 12:22 pm <<<<<<<<<<<
+REMOTE_ADDR: 1.202.218.110
+Host Name: 110.218.202.1.static.bjtelecom.net
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/5.0 (compatible; JikeSpider; +http://shoulu.jike.com/spider.html)

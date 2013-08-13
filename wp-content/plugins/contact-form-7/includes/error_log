@@ -1,0 +1,4 @@
+[03-May-2013 19:12:37 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/satlujpu/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[03-May-2013 19:13:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_filter() in /home/satlujpu/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[03-May-2013 19:19:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_filter() in /home/satlujpu/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[03-May-2013 19:20:28 Asia/Kolkata] PHP Fatal error:  Call to undefined function add_action() in /home/satlujpu/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
